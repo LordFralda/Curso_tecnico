@@ -1,3 +1,8 @@
 .titulo{
-   text-emphasis-color:#a83232 ; 
+   text-emphasis-color:#b12929 ; 
+   text-align: center;
+}
+
+body{
+    text-align: justify;
 }
